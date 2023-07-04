@@ -1,0 +1,7570 @@
+[
+  {
+    "raw_words": "I probably could have ordered a C but I wanted a more opaque color and did not want to overstretch the material .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I expected the waistband to be soft as well !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "waistband"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "soft"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Nope , returned for damaged 13D and still tight but would have streched .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 7,
+          "to": 9,
+          "term": [
+            "still",
+            "tight"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I ordered the Kelly green & Steel polo shirts both shirts arrived in good condition .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "condition"
+          ]
+        },
+        "category": "Service#General",
+        "opinion": {
+          "from": 13,
+          "to": 14,
+          "term": [
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "This was a gift for my 13 year old granddaughter ... a men 's medium fit her perfectly ... enough room for a shirt under it ... seem the kids are all wearing these now ... it is a nice quality too ...",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 40,
+          "to": 41,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": 39,
+          "to": 40,
+          "term": [
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 12,
+          "to": 15,
+          "term": [
+            "men",
+            "'s",
+            "medium"
+          ]
+        },
+        "category": "Top#Size",
+        "opinion": {
+          "from": 17,
+          "to": 18,
+          "term": [
+            "perfectly"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I very fond of the style but I 'm so sad they were n't for my feet .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 9,
+          "to": 11,
+          "term": [
+            "so",
+            "sad"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "style"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 1,
+          "to": 3,
+          "term": [
+            "very",
+            "fond"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Great quality .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I bought these as a gift for my Mom who loves them .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "loves"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I really like these .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 1,
+          "to": 3,
+          "term": [
+            "really",
+            "like"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The caramel color is very attractive and will blend well with summer and winter colors .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "color"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 4,
+          "to": 6,
+          "term": [
+            "very",
+            "attractive"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "It is man-made now unlike my previous leather pair so I have my doubts .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "man-made"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "The sizing was very true.I am very satisfied with this shoe and highly recommend to anyone needing the wider widths.N.Mayo",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "sizing"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 3,
+          "to": 5,
+          "term": [
+            "very",
+            "true.I"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 6,
+          "to": 8,
+          "term": [
+            "very",
+            "satisfied"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 12,
+          "to": 14,
+          "term": [
+            "highly",
+            "recommend"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Would order again in a different color .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are comfortable and attractive .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "attractive"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Huge sleeves , Baggy sleeves , do n't buy unless you see it first .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "sleeves"
+          ]
+        },
+        "category": "Top#Size",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "Baggy"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "sleeves"
+          ]
+        },
+        "category": "Top#Size",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Huge"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are great for my needs ( roller derby ) and would be great for dance .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 13,
+          "to": 14,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Size is close to right on too .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Size"
+          ]
+        },
+        "category": "Socks#Size",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "the last pair is two years old and still has no runs from dancing 6 days a week !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "pair"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Highly recommend .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#General",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Highly",
+            "recommend"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "HE LIKED IT .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "LIKED"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "My only complaint -- according to the size chart , I should have fit into a size A ( small ) .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 9,
+          "term": [
+            "size",
+            "chart"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "complaint"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I will probably wear them until they wear out since they were fairly expensive , but I 'll most likely buy more of the Theatricals XL tights ( which are lower quality but half the price and more comfortable ) when I need new ones .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 35,
+          "to": 36,
+          "term": [
+            "price"
+          ]
+        },
+        "category": "Bottom#Prices",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Prices",
+        "opinion": {
+          "from": 12,
+          "to": 14,
+          "term": [
+            "fairly",
+            "expensive"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 31,
+          "to": 32,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 30,
+          "to": 31,
+          "term": [
+            "lower"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 24,
+          "to": 27,
+          "term": [
+            "Theatricals",
+            "XL",
+            "tights"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 37,
+          "to": 39,
+          "term": [
+            "more",
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "My daughter loves these shoes .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "loves"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The tights were on time ... they fit great .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Service#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Quality is very good compared to regular tights , I also got them in black and light toast .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Quality"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "very",
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "At 5'11 , I didn't really need any additional height but the little heel does make it easier to stay on my toes and move my feet faster .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 13,
+          "to": 14,
+          "term": [
+            "heel"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I thought she would have to break them in slowly , but she wrote them for a the hour rehearsal and said they were really comfortable .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 22,
+          "to": 23,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 24,
+          "to": 26,
+          "term": [
+            "really",
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They seem like they will be hardy and still allow for movement and flexibility .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Fits perfect ... .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "It still looks nice , but if you want a full length sleeve chambray shirt , search elsewhere !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I order a whole size larger than my foot , and they are still too small , I just don't understand that .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 14,
+          "to": 16,
+          "term": [
+            "too",
+            "small"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I think they have discontinued them and that 's too bad because they are perfect .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 12,
+          "to": 13,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I consistently wear the same size no matter what the shoe , so surprised and a little disappointed that the straps on top are a little tight and overall fit is more narrow .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 20,
+          "to": 21,
+          "term": [
+            "straps"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 15,
+          "to": 18,
+          "term": [
+            "a",
+            "little",
+            "disappointed"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 20,
+          "to": 21,
+          "term": [
+            "straps"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 24,
+          "to": 27,
+          "term": [
+            "a",
+            "little",
+            "tight"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 31,
+          "to": 33,
+          "term": [
+            "more",
+            "narrow"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I have similar ones which I bought in the late 1980 's which have never pilled at all .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "similar",
+            "ones"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are comfortable and soft , move with the body , and do n't easily run .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "soft"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "look great !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I have worn these for many years & have many colors .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Like vert much .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 0,
+          "to": 3,
+          "term": [
+            "Like",
+            "vert",
+            "much"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "This shoe is cute and well made but it is definitely not for wide feet .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "cute"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Loved them though - so comfortable !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Loved"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 6,
+          "term": [
+            "so",
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They appear to be well made plus they are comfortable .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I read the reviews & did the wide & it fit perfectly !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "perfectly"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I really like the look of these shoes .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "look"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "like"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These are so shimmery and sexy !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "sexy"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "so",
+            "shimmery"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "good product for the price",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "price"
+          ]
+        },
+        "category": "Clothing#Prices",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These stretched out in width after one wear and the stitching across top came undone .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I unfortunately need them for a costume today so I 'm washing and wearing anyway , but I am pretty grossed out that I would be sent hosiery that had clearly been at least tried on by another person .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 19,
+          "to": 21,
+          "term": [
+            "pretty",
+            "grossed"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "unfortunately"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are not true nude .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "A very dependable , comfortable shoe !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 1,
+          "to": 3,
+          "term": [
+            "very",
+            "dependable"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "im happy with this order it got to me on time and was packaged well they are very good and i love them",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "order"
+          ]
+        },
+        "category": "Service#General",
+        "opinion": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "order"
+          ]
+        },
+        "category": "Service#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 15,
+          "to": 16,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 17,
+          "to": 19,
+          "term": [
+            "very",
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 22,
+          "to": 23,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 21,
+          "to": 22,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These boots look fantastic but as the saying goes , you get what you pay for .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "boots"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "fantastic"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very happy with them .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Very",
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I walk about in them all day and my feet are fine , here 's the catch though , I have to break the back straps down .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Too big to wear",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Too",
+            "big"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "The tights are great quality and not as sheer as regular tights ( so they 're more sturdy ) they 're darker and more opaque which some may not like .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 16,
+          "to": 18,
+          "term": [
+            "more",
+            "sturdy"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 6,
+          "to": 10,
+          "term": [
+            "not",
+            "as",
+            "sheer",
+            "as"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 19,
+          "to": 20,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 21,
+          "to": 22,
+          "term": [
+            "darker"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 19,
+          "to": 20,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 23,
+          "to": 25,
+          "term": [
+            "more",
+            "opaque"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": ": ( Great quality otherwise !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These ran short in the toe box .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "short"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are a nice dark navy color .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "color"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Love this tight .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "tight"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These are the only dance tights I buy .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Love these and they fit my skinny body perfectly .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "perfectly"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Love"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "fit"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Got dirty super quick though , I have no idea how .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "My main reason for returning these shoes were they were too short/small .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 10,
+          "to": 12,
+          "term": [
+            "too",
+            "short/small"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "No support hose",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "hose"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "No",
+            "support"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Other than that , they are quite shiny !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 6,
+          "to": 8,
+          "term": [
+            "quite",
+            "shiny"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Perfect for a Daphne Halloween costume .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 6,
+          "term": [
+            "Daphne",
+            "Halloween",
+            "costume"
+          ]
+        },
+        "category": "Top#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are holding up well .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "My toes are a little tight , but it may be the nature of the shoe .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 15,
+          "to": 16,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEU"
+      }
+    ]
+  },
+  {
+    "raw_words": "I would recommend them to anyone .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "recommend"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I thought the than I ordered would be to dark since i 'm very pale but when on they look perfect onstage .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 18,
+          "to": 19,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 20,
+          "to": 21,
+          "term": [
+            "perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I could not find anything like these in my local stores , and although I was afraid to try these , I am extremely glad I did , they are perfect !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 28,
+          "to": 29,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 30,
+          "to": 31,
+          "term": [
+            "perfect"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 28,
+          "to": 29,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 23,
+          "to": 25,
+          "term": [
+            "extremely",
+            "glad"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Unfortunately they were too small .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 3,
+          "to": 5,
+          "term": [
+            "too",
+            "small"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Glad I did , these are definately keepers ! They have not scratched or faded at all , although they are pleathy rather than natural materials - which works out fine for the wet mornings and little spashes because they dry quickly and without discolorization .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 39,
+          "to": 40,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 19,
+          "to": 20,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 21,
+          "to": 22,
+          "term": [
+            "pleathy"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Glad"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They fit great , a little more narrow than I expected being I got the wide and normally do n't have to except in sandals ( no one wants to be squishing out the sides of sandals so I always get the wide widths if available lol ) .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Ladies , I think I 've found it !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Also , the price is actually excellent .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "price"
+          ]
+        },
+        "category": "Bottom#Prices",
+        "opinion": {
+          "from": 5,
+          "to": 7,
+          "term": [
+            "actually",
+            "excellent"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Like ths shoe .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Like"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I thought these would be a good go-to option for comfortable black sandals ... and they are .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 15,
+          "to": 16,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Great looking sandal also .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "sandal"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "If you just want the classic ballet tights then this is not what you want .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 8,
+          "term": [
+            "classic",
+            "ballet",
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "PS They are pretty and shimmery .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "shimmery"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "pretty"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Husband had no issues walking in them , just the general have to stretch out the leather .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I have tugged and pulled on them with long nails and they have yet to snag or run .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I am tall and all leg and these fit me very well .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 10,
+          "to": 12,
+          "term": [
+            "very",
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Otherwise , the product is fine .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "product"
+          ]
+        },
+        "category": "Clothing#Prices",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "fine"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Loved the shoes , but sadly had to return them , as they were stamped 9N , but are actually a 9M , too wide for my narrow feet ...",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 12,
+          "to": 13,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 23,
+          "to": 25,
+          "term": [
+            "too",
+            "wide"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Loved"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "sadly"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I have n't tried dancing in them but they seem great .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I was so excited to see that they came in half sizes - somewhat of a rarity in character shoes .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "so",
+            "excited"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The ivory pair was fine but the pair I ordered that was champaign came with two left shoes .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "pair"
+          ]
+        },
+        "category": "Service#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "pair"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "fine"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "It is well made and looks good .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I love this sandal .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "sandal"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "If you are looking for something more sheer go with Oroblu Repos 70 which I also have and love but more like a strong pantyhose .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 10,
+          "to": 13,
+          "term": [
+            "Oroblu",
+            "Repos",
+            "70"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 18,
+          "to": 19,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They fit very well and are very soft without getting runs or getting pilly .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "very",
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 6,
+          "to": 8,
+          "term": [
+            "very",
+            "soft"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I will definitely be purchasing more of these !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They did n't fit right so I returned them .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 1,
+          "to": 4,
+          "term": [
+            "did",
+            "n't",
+            "fit"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "This was a gift and my friend loved them.I have several pairs and love them too .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 13,
+          "to": 14,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "them.I"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "loved"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "This top is beautifully made , the material is lovely and it washes up nicely .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "material"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "lovely"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "top"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "nicely"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "top"
+          ]
+        },
+        "category": "Top#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "beautifully"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Quite happy with the purchase .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Quite",
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Keeps you nice and warm for winter .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "warm"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I would like them better if they were leather .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "This shoe fits well and is quite comfortable purchased 2 pair and am quite satisfied and will purchase this brand again in the future .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 6,
+          "to": 8,
+          "term": [
+            "quite",
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 13,
+          "to": 15,
+          "term": [
+            "quite",
+            "satisfied"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 19,
+          "to": 20,
+          "term": [
+            "brand"
+          ]
+        },
+        "category": "Shoes#Brand",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Love these tights .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The light pink shade is very pretty and is a pinkish white color .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 4,
+          "term": [
+            "light",
+            "pink",
+            "shade"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 5,
+          "to": 7,
+          "term": [
+            "very",
+            "pretty"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Small/Medium fits perfect .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are the only tights my daughter will wear .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The tights are of good quality , but the waistband is very diggy , and cuts you off in the middle .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "waistband"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 11,
+          "to": 13,
+          "term": [
+            "very",
+            "diggy"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Other than that great shoes",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "1 not what I expected .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Did n't expect the hole in the foot , but these are dance tights ...",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 12,
+          "to": 14,
+          "term": [
+            "dance",
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Comfortable right away !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I wore these for an hour straight dancing and was pleased by them .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 12,
+          "to": 13,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "pleased"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "For the price and brand I expect more .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "brand"
+          ]
+        },
+        "category": "Bottom#Brand",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "price"
+          ]
+        },
+        "category": "Bottom#Prices",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I feel like this may actually be a 2 star product but I added an extra because I love the way they looked .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 21,
+          "to": 22,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 18,
+          "to": 19,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Also the strap rubs my heel and makes a blister , so I need a band-aid for that .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "strap"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Needed a tight that was full coverage , and these are the ones , they fit great , true to size , comfortable , just what I was hoping for",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 18,
+          "to": 19,
+          "term": [
+            "true"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 16,
+          "to": 17,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 22,
+          "to": 23,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I have worn these shoes forever !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The size is exactly to fit , it 's very thick & cozy !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": 12,
+          "to": 13,
+          "term": [
+            "cozy"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": 9,
+          "to": 11,
+          "term": [
+            "very",
+            "thick"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "size"
+          ]
+        },
+        "category": "Top#Size",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "fit"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Keeps you warm and cuddly feeling too .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "feeling"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "cuddly"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "feeling"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "warm"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very cute flat shoe .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Very",
+            "cute"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I put on socks with them so they became better fit .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "better"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Ran small and have a small hole in the foot for dancing .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "small"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "hole"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "small"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "They definitely run small .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "small"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "It is very snug and digs into my daughters waist .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "very",
+            "snug"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "It did run a little small .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 3,
+          "to": 6,
+          "term": [
+            "a",
+            "little",
+            "small"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Great fit , great boot , at a great price",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "boot"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "price"
+          ]
+        },
+        "category": "Shoes#Prices",
+        "opinion": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "She used to have a pink pair that have worn out and is very disappointed that they are not available in pink .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 16,
+          "to": 17,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Options",
+        "opinion": {
+          "from": 13,
+          "to": 15,
+          "term": [
+            "very",
+            "disappointed"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Love these instead of nylons .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Nice shoe and quality , but did not fit my foot comfortably as was in between sizes .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Nice"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Nice"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "comfortably"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Hours & hours of practice , plus 4 performances and not one complaint !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Not itchy like I expected it to be , and it keeps its shape pretty well .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 14,
+          "to": 16,
+          "term": [
+            "pretty",
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The thinness of the waistband is a bit uncomfortable as it can lead to more rolls as they say .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "waistband"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 6,
+          "to": 9,
+          "term": [
+            "a",
+            "bit",
+            "uncomfortable"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I love them already !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I was pleasantly surprised - they are nice - good for concealing bunions .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "pleasantly",
+            "surprised"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "good"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I followed the chart and these fit perfect.I actually do like to dance and be active in these .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "like"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "perfect.I"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "very cute and comfortable .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "very",
+            "cute"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Fabric was thinner than I thought it would be , it 's not see through but if I held the shirt up toward a lamp/light ( about 10 ' away ) I could see lamp light through the fabric .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Fabric"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "thinner"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 38,
+          "to": 39,
+          "term": [
+            "fabric"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 20,
+          "to": 21,
+          "term": [
+            "shirt"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Had to exchange my first pair because they run a size small .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "pair"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "small"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Had to get my husband to help with buckle .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "buckle"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very warm , very convenient for carrying the camera when out with the dogs .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Very",
+            "warm"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 3,
+          "to": 5,
+          "term": [
+            "very",
+            "convenient"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These shoes are as comfortable as they look .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "ok",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "ok"
+          ]
+        },
+        "sentiment": "NEU"
+      }
+    ]
+  },
+  {
+    "raw_words": "I recommend these to every woman !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "recommend"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "great buy",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I am 5 ' 5 and 128lbs , I read the reviews and the sizing chart and thought that size B would be ideal but it does not fit .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 27,
+          "to": 29,
+          "term": [
+            "not",
+            "fit"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "My legs are not fat , so that isn't a factor , at first putting them on they seem just a tad short .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 17,
+          "to": 18,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Top#Size",
+        "opinion": {
+          "from": 19,
+          "to": 23,
+          "term": [
+            "just",
+            "a",
+            "tad",
+            "short"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "They also make my legs look great !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I forget what others posted on sizing ... but larger than expected , I bought 2 sizes because I needed them ASAP ... love them !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 24,
+          "to": 25,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 23,
+          "to": 24,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I love them very cool boots",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "boots"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 5,
+          "term": [
+            "very",
+            "cool"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I 'm going back to the site and order a few more colors .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "As warned in other reviews , I ordered a half size up and it fits perfectly .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 15,
+          "to": 16,
+          "term": [
+            "perfectly"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I have a narrow ( AA ) foot , so I was delighted that these sandals came in a narrow width .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 15,
+          "to": 16,
+          "term": [
+            "sandals"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 12,
+          "to": 13,
+          "term": [
+            "delighted"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Fit exactly as expected .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Fit"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I really hate the process of returning things by mail ... .do n't you ?",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 10,
+          "term": [
+            "process",
+            "of",
+            "returning",
+            "things",
+            "by",
+            "mail"
+          ]
+        },
+        "category": "Service#General",
+        "opinion": {
+          "from": 1,
+          "to": 3,
+          "term": [
+            "really",
+            "hate"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "walking in them-but they were fine for a few hours .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "fine"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "For a heavy durable tight that looks great go no further .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "tight"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "tight"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "durable"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "tight"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "heavy"
+          ]
+        },
+        "sentiment": "NEU"
+      }
+    ]
+  },
+  {
+    "raw_words": "I 've been wearing this style for years .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 6,
+          "term": [
+            "this",
+            "style"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "It is open and has low heel - perfect for long summer walks .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I have a skinny size 6 foot so I bought a 7 and it fits perfectly .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 15,
+          "to": 16,
+          "term": [
+            "perfectly"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "i usually wear smalls but the reviews say these sweats run small so i ordered medium blue and just love it .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#General",
+        "opinion": {
+          "from": 18,
+          "to": 20,
+          "term": [
+            "just",
+            "love"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "It shrunk slightly when I washed it per the label in cold water .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I like the hole in the sole so that my feet do n't slip in my dance shoes ... I got a much larger size than usual b/c I do n't like tights inching down ... The legs were large , but o.k ... .the panty part was tighter than I 'd like , but still o.k .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 32,
+          "to": 33,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 29,
+          "to": 32,
+          "term": [
+            "do",
+            "n't",
+            "like"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "sole"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "like"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 45,
+          "to": 47,
+          "term": [
+            "panty",
+            "part"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 48,
+          "to": 49,
+          "term": [
+            "tighter"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 36,
+          "to": 38,
+          "term": [
+            "The",
+            "legs"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 39,
+          "to": 40,
+          "term": [
+            "large"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very shimery !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Very",
+            "shimery"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Great shimmer too",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shimmer"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "nice smooth fit , they feel great every time I slip them on .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The tights are tight in the legs but not as constraining in the waist ( at 5'11 and 175 lbs , size D works great ) .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "tight"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Not for Tall men",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "The shoe is cute .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "cute"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I bought these tights for my beginning ballet class and they have been great .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 13,
+          "to": 14,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "But I will totes wear them every time there is opportunity for dancing ... .. i.e .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "these shiny tights fit great and are well made .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "shiny"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very shimmery so I ca n't wear them as normal tights in the winter like I wanted ...",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Bought a second Ash/Grey sweater because the first one fit so well and is so warm .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "first"
+          ]
+        },
+        "category": "Top#General",
+        "opinion": {
+          "from": 10,
+          "to": 12,
+          "term": [
+            "so",
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "first"
+          ]
+        },
+        "category": "Top#Quality",
+        "opinion": {
+          "from": 14,
+          "to": 16,
+          "term": [
+            "so",
+            "warm"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Top#General",
+        "opinion": {
+          "from": 10,
+          "to": 12,
+          "term": [
+            "so",
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are n't as shimmery as the picture looks",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "shimmery"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "they are cute shoes , they just were not wide enough for my feet",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 8,
+          "to": 11,
+          "term": [
+            "not",
+            "wide",
+            "enough"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "cute"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "**Update to this review- still wearing this watch daily over 2 years later ( now September 2012 ) and it still looks great and works great .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "watch"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 22,
+          "to": 23,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "watch"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "watch"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 25,
+          "to": 26,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "comfy , but not so much of a gabric",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "comfy"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These run SMALL .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "SMALL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Well made , very comfortable .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 3,
+          "to": 5,
+          "term": [
+            "very",
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I put shoe inserts in them , because they were too big .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 10,
+          "to": 12,
+          "term": [
+            "too",
+            "big"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Sweet !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Sweet"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I gave it that rating rather than 5 stars because they do n't last as long as they should .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Fits just as described , and will definitely purchase again .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Size",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Fits"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Lots of padding and will do me well for formal dancing and square dancing .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The color is very nice , not fake looking but still flattering .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "color"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "flattering"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "color"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 5,
+          "term": [
+            "very",
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "also - Minnetonka does NOT make a wide moccasin , there are NONE on their official website in this style .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "Minnetonka"
+          ]
+        },
+        "category": "Shoes#Brand",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "The wide size fit weird so I 've kept the 9 M , which are a little big but so comfortable !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 19,
+          "to": 21,
+          "term": [
+            "so",
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 15,
+          "to": 18,
+          "term": [
+            "a",
+            "little",
+            "big"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I recommend them !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "recommend"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "First time I have every actually seen such a bright pink hoodie !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 9,
+          "to": 12,
+          "term": [
+            "bright",
+            "pink",
+            "hoodie"
+          ]
+        },
+        "category": "Top#Looking",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I sent them back & today we picked up a pair locally & she fit into a size 7 1/2 M. I ca n't believe the narrow version is so much smaller .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 26,
+          "to": 28,
+          "term": [
+            "narrow",
+            "version"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 29,
+          "to": 32,
+          "term": [
+            "so",
+            "much",
+            "smaller"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "They are very light weight and comfortable .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "very",
+            "light"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Great for dancing and costume modesty .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Otherwise these are great tights !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Perfect for light dancing and character movement .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "She was very happy with the fit .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "very",
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Be aware , the color is very vibrant .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "color"
+          ]
+        },
+        "category": "Bottom#Looking",
+        "opinion": {
+          "from": 6,
+          "to": 8,
+          "term": [
+            "very",
+            "vibrant"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very light weight and comfortable",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Very",
+            "light"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Not the best quality leather , but they are pretty well made , so they will last through a dance season if you are taking a class , and probably much longer depending on use.The Size Question amazon asked stated too small as the only option that made sense , but the aren't really too small - you just have to know that dance shoes are always at least a size smaller than street shoes - sometimes even two sizes .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 14,
+          "to": 15,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 9,
+          "to": 11,
+          "term": [
+            "pretty",
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "bought these fir my boyfriend and he loves them , thank you very much for the great boots",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 17,
+          "to": 18,
+          "term": [
+            "boots"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 16,
+          "to": 17,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "loves"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "great for the price",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "price"
+          ]
+        },
+        "category": "Clothing#Prices",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Great quality and size .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "size"
+          ]
+        },
+        "category": "Clothing#Size",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Nice shimmer but opaque",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Nice"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "opaque"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I can dance 4 hours without any complaining .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These hold up so much better , usually through several performances , and she can wear flip-flops between dances by flipping up the foot of these tights .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 26,
+          "to": 27,
+          "term": [
+            "tights"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 3,
+          "to": 6,
+          "term": [
+            "so",
+            "much",
+            "better"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "not as durable as expected",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 5,
+          "term": [
+            "not",
+            "as",
+            "durable",
+            "as",
+            "expected"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I like it , however , the slingback is a little loose , but the rest of the fit feels very well .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 20,
+          "to": 22,
+          "term": [
+            "very",
+            "well"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "like"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 7,
+          "to": 8,
+          "term": [
+            "slingback"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 9,
+          "to": 12,
+          "term": [
+            "a",
+            "little",
+            "loose"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I wish I had purchased them in leather because the synthetic material on top makes my foot sweat , but apart from that I am happy about the comfort and the look .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "material"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": 28,
+          "to": 29,
+          "term": [
+            "comfort"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 25,
+          "to": 26,
+          "term": [
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 31,
+          "to": 32,
+          "term": [
+            "look"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 25,
+          "to": 26,
+          "term": [
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "they are shimmery and did the trick for dressing up for the holidays .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Clothing#Looking",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "shimmery"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Im giving this 4 stars , soley for customer service .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "service"
+          ]
+        },
+        "category": "Service#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very nice and comfortable shoe .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Very",
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "shoe"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Very happy with the product .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 4,
+          "to": 5,
+          "term": [
+            "product"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Very",
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "They were a bit narrow in the toe are , I managed to stretch them some .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "They"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 2,
+          "to": 5,
+          "term": [
+            "a",
+            "bit",
+            "narrow"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Mom was extremely happy with the shoes and it was a perfect fit for her .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 2,
+          "to": 4,
+          "term": [
+            "extremely",
+            "happy"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "perfect"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Life Stride 's Mimosa Fisherman Sandals are very cute and comfortable .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "Sandals"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 7,
+          "to": 9,
+          "term": [
+            "very",
+            "cute"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": 5,
+          "to": 6,
+          "term": [
+            "Sandals"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 10,
+          "to": 11,
+          "term": [
+            "comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "The look is nice .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "look"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "We ordered 1/2 size up as other reviews suggested and the shoes where too big .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "shoes"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 13,
+          "to": 15,
+          "term": [
+            "too",
+            "big"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I gave it three stars since it probably looks nice on a medium to wide foot .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 9,
+          "to": 10,
+          "term": [
+            "nice"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "As others have said , the material is not very giving .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "material"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 8,
+          "to": 11,
+          "term": [
+            "not",
+            "very",
+            "giving"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "THIS SHOE LOOKED GOOD SO ITHOUGHT I WOULD TRY IT .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 1,
+          "to": 2,
+          "term": [
+            "SHOE"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "GOOD"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "These survive the washing machine and many , many reuses .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "We had to return another style that was extremely itchy and irritating .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 11,
+          "to": 12,
+          "term": [
+            "irritating"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": 8,
+          "to": 10,
+          "term": [
+            "extremely",
+            "itchy"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Also , bought this tan in a 7-1/2 C/D ( wide ) when in fact it is extremely narrow ..",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 17,
+          "to": 19,
+          "term": [
+            "extremely",
+            "narrow"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Totally worth the money .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#Prices",
+        "opinion": {
+          "from": 0,
+          "to": 2,
+          "term": [
+            "Totally",
+            "worth"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Will buy more !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I would not buy again .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Great fit !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Size",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Great"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "this is really really ballet pink , might go with a more adult toned down pink next ime",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Clothing#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEU"
+      }
+    ]
+  },
+  {
+    "raw_words": "Comfortable and cute .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "cute"
+          ]
+        },
+        "sentiment": "POS"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 0,
+          "to": 1,
+          "term": [
+            "Comfortable"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Unfortunately the strap digs into the back of my foot just above the ankle making it somewhat uncomfortable .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 2,
+          "to": 3,
+          "term": [
+            "strap"
+          ]
+        },
+        "category": "Shoes#Looking",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "NEG"
+      },
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": 17,
+          "to": 18,
+          "term": [
+            "uncomfortable"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "I definitely recommend them .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "them"
+          ]
+        },
+        "category": "Shoes#General",
+        "opinion": {
+          "from": 1,
+          "to": 3,
+          "term": [
+            "definitely",
+            "recommend"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "must be seconds quality because they are way short in the waist and way long in the leg ... .. weird .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 3,
+          "to": 4,
+          "term": [
+            "quality"
+          ]
+        },
+        "category": "Clothing#Quality",
+        "opinion": {
+          "from": 20,
+          "to": 21,
+          "term": [
+            "weird"
+          ]
+        },
+        "sentiment": "NEG"
+      }
+    ]
+  },
+  {
+    "raw_words": "Beats pantyhose hands down , and they 're DURABLE .",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": 6,
+          "to": 7,
+          "term": [
+            "they"
+          ]
+        },
+        "category": "Bottom#Quality",
+        "opinion": {
+          "from": 8,
+          "to": 9,
+          "term": [
+            "DURABLE"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "Did not hurt their feet !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Shoes#Quality",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  },
+  {
+    "raw_words": "I throw in the washing marchine and still have no runs !",
+    "task": "ACOS",
+    "quadruples": [
+      {
+        "aspect": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "category": "Bottom#General",
+        "opinion": {
+          "from": -1,
+          "to": -1,
+          "term": [
+            "NULL"
+          ]
+        },
+        "sentiment": "POS"
+      }
+    ]
+  }
+]
