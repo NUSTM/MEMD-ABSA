@@ -1,5 +1,5 @@
 # MEMD-ABSA
- A multi-element multi-domain dataset for Aspect-Based Sentiment Analysis.
+ A multi-element multi-domain dataset for Aspect-Based Sentiment Analysis. [[paper]]([https://arxiv.org/pdf/2306.16956.pdf]) 
 
 ## Data Description:
 
